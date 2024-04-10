@@ -1,0 +1,303 @@
+AUDIO -O rato roeu a roupa do Rei de Roma. 
+[
+    {
+        "Id": "077e7165c13541049d495de7466371bb",
+        "RecognitionStatus": 0,
+        "Offset": 12700000,
+        "Duration": 37800000,
+        "Channel": 0,
+        "DisplayText": "O rato roeu a roupa do Rei de Roma.",
+        "NBest": [
+            {
+                "Confidence": 0.84609455,
+                "Lexical": "o rato roeu a roupa do rei de roma",
+                "ITN": "o rato roeu a roupa do rei de roma",
+                "MaskedITN": "o rato roeu a roupa do rei de roma",
+                "Display": "O rato roeu a roupa do Rei de Roma.",
+                "Words": [
+                    {
+                        "Word": "o",
+                        "Offset": 12700000,
+                        "Duration": 2600000
+                    },
+                    {
+                        "Word": "rato",
+                        "Offset": 15400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "roeu",
+                        "Offset": 20300000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 28700000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "roupa",
+                        "Offset": 30500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 36100000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "rei",
+                        "Offset": 37900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 41100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "roma",
+                        "Offset": 43200000,
+                        "Duration": 7300000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8429004,
+                "Lexical": "o rato roeu a roupa do rei de roma e",
+                "ITN": "o rato roeu a roupa do rei de roma e",
+                "MaskedITN": "o rato roeu a roupa do rei de roma e",
+                "Display": "o rato roeu a roupa do rei de roma e",
+                "Words": [
+                    {
+                        "Word": "o",
+                        "Offset": 12700000,
+                        "Duration": 2600000
+                    },
+                    {
+                        "Word": "rato",
+                        "Offset": 15400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "roeu",
+                        "Offset": 20300000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 28700000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "roupa",
+                        "Offset": 30500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 36100000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "rei",
+                        "Offset": 37900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 41100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "roma",
+                        "Offset": 43200000,
+                        "Duration": 7300000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 52600000,
+                        "Duration": 200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8431619,
+                "Lexical": "o rato roeu a roupa do rei de roma a",
+                "ITN": "o rato roeu a roupa do rei de roma a",
+                "MaskedITN": "o rato roeu a roupa do rei de roma a",
+                "Display": "o rato roeu a roupa do rei de roma a",
+                "Words": [
+                    {
+                        "Word": "o",
+                        "Offset": 12700000,
+                        "Duration": 2600000
+                    },
+                    {
+                        "Word": "rato",
+                        "Offset": 15400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "roeu",
+                        "Offset": 20300000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 28700000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "roupa",
+                        "Offset": 30500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 36100000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "rei",
+                        "Offset": 37900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 41100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "roma",
+                        "Offset": 43200000,
+                        "Duration": 7300000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 51400000,
+                        "Duration": 200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8433239,
+                "Lexical": "o rato roeu a roupa do rei de roma é",
+                "ITN": "o rato roeu a roupa do rei de roma é",
+                "MaskedITN": "o rato roeu a roupa do rei de roma é",
+                "Display": "o rato roeu a roupa do rei de roma é",
+                "Words": [
+                    {
+                        "Word": "o",
+                        "Offset": 12700000,
+                        "Duration": 2600000
+                    },
+                    {
+                        "Word": "rato",
+                        "Offset": 15400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "roeu",
+                        "Offset": 20300000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 28700000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "roupa",
+                        "Offset": 30500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 36100000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "rei",
+                        "Offset": 37900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 41100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "roma",
+                        "Offset": 43200000,
+                        "Duration": 7300000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 52600000,
+                        "Duration": 200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8423949,
+                "Lexical": "o rato roeu a roupa do rei de roma um",
+                "ITN": "o rato roeu a roupa do rei de roma um",
+                "MaskedITN": "o rato roeu a roupa do rei de roma um",
+                "Display": "o rato roeu a roupa do rei de roma um",
+                "Words": [
+                    {
+                        "Word": "o",
+                        "Offset": 12700000,
+                        "Duration": 2600000
+                    },
+                    {
+                        "Word": "rato",
+                        "Offset": 15400000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "roeu",
+                        "Offset": 20300000,
+                        "Duration": 8100000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 28700000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "roupa",
+                        "Offset": 30500000,
+                        "Duration": 5500000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 36100000,
+                        "Duration": 1700000
+                    },
+                    {
+                        "Word": "rei",
+                        "Offset": 37900000,
+                        "Duration": 3100000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 41100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "roma",
+                        "Offset": 43200000,
+                        "Duration": 7300000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 51400000,
+                        "Duration": 200000
+                    }
+                ]
+            }
+        ]
+    }
+]

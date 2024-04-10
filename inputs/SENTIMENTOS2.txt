@@ -1,0 +1,129 @@
+Insira seu próprio texto, carregue um arquivo ou use um de nossos textos de exemplo
+
+"Today is a beautiful day filled with endless possibilities and joy. The sun is shining, the birds are singing, and I feel grateful for every moment. I am surrounded by love, laughter, and positivity, and my heart is overflowing with happiness. I choose to embrace the present moment and celebrate the little joys that life brings. With a smile on my face and warmth in my heart, I know that today is going to be amazing. Here's to happiness, love, and all the wonderful blessings that life has to offer!"
+
+{
+    "documents": [
+        {
+            "id": "id__976",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.87,
+                "neutral": 0.11,
+                "negative": 0.02
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.91,
+                        "neutral": 0.08,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 69,
+                    "text": "\"Today is a beautiful day filled with endless possibilities and joy. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 22,
+                            "length": 3,
+                            "text": "day",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/0/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 12,
+                            "length": 9,
+                            "text": "beautiful",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.05,
+                        "negative": 0.01
+                    },
+                    "offset": 69,
+                    "length": 81,
+                    "text": "The sun is shining, the birds are singing, and I feel grateful for every moment. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.93,
+                        "neutral": 0.06,
+                        "negative": 0.02
+                    },
+                    "offset": 150,
+                    "length": 95,
+                    "text": "I am surrounded by love, laughter, and positivity, and my heart is overflowing with happiness. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.73,
+                        "neutral": 0.24,
+                        "negative": 0.04
+                    },
+                    "offset": 245,
+                    "length": 87,
+                    "text": "I choose to embrace the present moment and celebrate the little joys that life brings. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.85,
+                        "neutral": 0.13,
+                        "negative": 0.03
+                    },
+                    "offset": 332,
+                    "length": 90,
+                    "text": "With a smile on my face and warmth in my heart, I know that today is going to be amazing. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.89,
+                        "neutral": 0.09,
+                        "negative": 0.01
+                    },
+                    "offset": 422,
+                    "length": 83,
+                    "text": "Here's to happiness, love, and all the wonderful blessings that life has to offer!\"",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
